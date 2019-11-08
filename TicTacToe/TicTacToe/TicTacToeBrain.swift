@@ -27,6 +27,7 @@ class TicTacToeBrain {
     }
     
     // rules
+    // comparable protocol 
     func emptyBox(symbolButton: Bool) -> Bool {
         return
     }
